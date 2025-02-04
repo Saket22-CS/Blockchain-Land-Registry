@@ -118,4 +118,3 @@ For any queries or feedback, feel free to reach out:
 ---
 
 ⭐ **Enjoy building with blockchain!** 🚀🌍
-```
